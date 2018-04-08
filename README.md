@@ -27,6 +27,7 @@ Note: Ensure that both jade-js & nodemon are installed globally on system first.
 To install, git clone repo then:
 
 ```npm install```
+
 ```nodemon```
 
 Locate to ```http://localhost:3000/``` & ```http://localhost:3000/about``` to test.
