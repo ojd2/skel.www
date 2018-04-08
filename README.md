@@ -15,8 +15,21 @@ For prototyping speed, Model has been hard coded into the Controllers.
 
 Jade Mixins can be built into views as usual.
 
-# Still Todo:
+## Still Todo:
 
 - External data can be imported into Model interface.
 - Safely import media
+
+## Install:
+
+Note: Ensure that both jade-js & nodemon are installed globally on system first.
+
+To install, git clone repo then:
+
+```npm install```
+```nodemon```
+
+Locate to ```http://localhost:3000/``` & ```http://localhost:3000/about``` to test.
+
+
 
