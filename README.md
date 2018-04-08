@@ -8,7 +8,7 @@ Simple bespoke MVC architecture for using Express.js & Jade.js.
 
 Where:
 
-```Routes: index.js```
+```Routes: index.js``` & 
 ```Controllers: indexController.js, aboutController.js```
 
 For prototyping speed, Model has been hard coded into the Controllers.
